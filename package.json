@@ -1,7 +1,7 @@
 {
   "name": "expand-year",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Expand a short year to a full year (15 -> 2015)",
   "license": "MIT",
   "repository": "bendrucker/expand-year",
