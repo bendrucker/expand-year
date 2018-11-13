@@ -1,4 +1,4 @@
-# expand-year [![Build Status](https://travis-ci.org/bendrucker/expand-year.svg?branch=master)](https://travis-ci.org/bendrucker/expand-year)
+# expand-year [![Build Status](https://travis-ci.org/bendrucker/expand-year.svg?branch=master)](https://travis-ci.org/bendrucker/expand-year) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/expand-year.svg)](https://greenkeeper.io/)
 
 > Expand a short year to a full year (`15` -> `2015`)
 
